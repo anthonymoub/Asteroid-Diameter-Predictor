@@ -1,4 +1,4 @@
-# 512-project-group-24
+# Asteroid Diameter Predictor
 
 ![](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png)
 ![](https://media.cnn.com/api/v1/images/stellar/prod/200629132529-nasa-dart-spacecraft-liciacube.jpg?q=w_1600,h_900,x_0,y_0,c_fill)
